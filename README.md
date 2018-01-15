@@ -1,2 +1,2 @@
-# Hashflare-Dark-Theme
-Modifies CSS on Hashflare.io to create a dark theme.
+# HashFlare-Dark-Theme
+Modifies CSS on HashFlare.io to create a dark theme.
